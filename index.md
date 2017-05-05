@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Welcome to Godzilla Gaming!
 
-You can use the [editor on GitHub](https://github.com/BPCIITeam3/Grory/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+* * *
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[About Us](aboutus.md)     [Download the Game!](vg.md)   
 
-### Markdown
+* * *
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![](mouseandkeyboard.jpg)
 
-```markdown
-Syntax highlighted code block
+* * *
 
-# Header 1
-## Header 2
-### Header 3
+Welcome to the Godzilla Gaming site! We are excited to tell you all about our game coming soon!
 
-- Bulleted
-- List
+We can tell you a little about ourselves and will soon have a link for you to download the game.
 
-1. Numbered
-2. List
+We hope you enjoy the game!
 
-**Bold** and _Italic_ and `Code` text
+We also have a trello board which you can check out here ! [Godzilla Gaming Development](https://trello.com/b/tIRDIDwd/godzilla-gaming-development)
 
-[Link](url) and ![Image](src)
-```
+* * *
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BPCIITeam3/Grory/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+May 5th 2017 Godzilla Gaming Team:
+This is a diclaimer. This website is for a school project. Godzilla gaming is a fictional company and we are not actually selling anything.
