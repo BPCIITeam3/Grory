@@ -6,7 +6,7 @@
 
 * * *
 
-![](mouseandkeyboard.jpg)
+![](ggserviceproject.jpg)
 
 * * *
 
