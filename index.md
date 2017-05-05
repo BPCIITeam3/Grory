@@ -2,7 +2,7 @@
 
 * * *
 
-[About Us](aboutus.md)     [Download the Game!](vg.md)   
+[About Us](aboutus.md)              [Download the Game!](vg.md)   
 
 * * *
 
